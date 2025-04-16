@@ -15,7 +15,6 @@
         url="https://play.google.com/store/apps/details?id=com.wairiInc.wairi"
         sparkle:version="1.15.0"
         sparkle:shortVersionString="1.15.0"
-        sparkle:criticalUpdate="true"
         sparkle:os="android"
         type="application/octet-stream"/>
     </item>
@@ -27,9 +26,8 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/kr/app/%EC%99%80%EC%9D%B4%EB%A6%AC/id6471933852"
-        sparkle:version="1.15.0"
-        sparkle:shortVersionString="1.15.0"
-        sparkle:criticalUpdate="true"
+        sparkle:version="1.14.1"
+        sparkle:shortVersionString="1.14.1"
         sparkle:os="ios"
         type="application/octet-stream"/>
     </item>
