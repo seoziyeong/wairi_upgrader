@@ -21,13 +21,13 @@
 
     <!-- iOS -->
     <item>
-      <title>iOS 0.1.0</title>
+      <title>iOS 0.2.0</title>
       <description>절약돼지 앱 업데이트</description>
       <pubDate>Mon, 7 Jul 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/kr/app/%EC%99%80%EC%9D%B4%EB%A6%AC/id6745531824"
-        sparkle:version="0.1.0"
-        sparkle:shortVersionString="0.1.0"
+        sparkle:version="0.2.0"
+        sparkle:shortVersionString="0.2.0"
         sparkle:os="ios"
         type="application/octet-stream"/>
     </item>
