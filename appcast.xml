@@ -21,13 +21,13 @@
 
     <!-- iOS -->
     <item>
-      <title>iOS 1.15.7</title>
+      <title>iOS 1.16.0</title>
       <description>와이리 앱 업데이트</description>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/kr/app/%EC%99%80%EC%9D%B4%EB%A6%AC/id6471933852"
-        sparkle:version="1.15.7"
-        sparkle:shortVersionString="1.15.7"
+        sparkle:version="1.16.0"
+        sparkle:shortVersionString="1.16.0"
         sparkle:os="ios"
         type="application/octet-stream"/>
     </item>
